@@ -1,0 +1,24 @@
+body{
+  background-color: lightgray;
+}
+.navbar-nav{
+  margin: auto;
+   padding:20px;
+}
+#search{
+	border-radius: 10px;
+}
+.card{
+	height: 30px;
+}
+.links{
+	color: white;
+	text-decoration: none;
+}
+.btn btn-danger{
+	margin: 5px;
+}
+.nav-link{
+	padding: 20px;
+}
+
